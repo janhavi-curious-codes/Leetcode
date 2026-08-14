@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
