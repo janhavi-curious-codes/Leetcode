@@ -5,8 +5,8 @@ class Solution:
 
         for num in nums:
             if num==1:
-                count+=1
-                maxcount= max(maxcount,count)
+                count+= 1
+                maxcount=max(maxcount,count)
             else:
                 count=0
         return maxcount
