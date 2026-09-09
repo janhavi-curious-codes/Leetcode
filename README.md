@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/janhavi-curious-codes/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
