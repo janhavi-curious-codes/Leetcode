@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
