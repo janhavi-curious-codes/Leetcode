@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0845-longest-mountain-in-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0845-longest-mountain-in-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
