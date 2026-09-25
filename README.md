@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
