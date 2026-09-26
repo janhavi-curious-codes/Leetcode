@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -97,6 +98,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
