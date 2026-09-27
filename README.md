@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0845-longest-mountain-in-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
