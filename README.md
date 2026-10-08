@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0169-majority-element) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/janhavi-curious-codes/Leetcode/tree/master/0151-reverse-words-in-a-string) |
